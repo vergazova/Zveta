@@ -1,0 +1,75 @@
+﻿body{
+	font-size: 0;
+}
+div { 
+	display: block;
+	border: 1px solid black; 
+	background: #f2f2f2;
+	height: 100px;
+	margin: 1%;
+	vertical-align: top;
+}
+#i1{ 
+	display: block;
+	width: 95%; 
+} 
+#i2{
+	display: inline-block;
+	height: 380px;
+	width: 20%; 
+} 
+#i3{
+	display: inline-block;
+	height: 380px;
+	width: 44%; 
+} 
+#i4{ 
+	display: inline-block;
+	width: 44%; 
+} 
+#i5{
+	display: inline-block;
+	width: 44%; 
+} 
+#i6{
+	display: block;
+	width: 95%; 
+} 
+#i7{
+	display: block;
+	width: 95%; 
+} 
+#i8 {
+	display: inline-block;
+	height: 380px;
+	width: 25%; 
+} 
+#i9 {
+	display: block;
+	width: 90%; 
+} 
+#i10 {
+	display: block;
+	width: 90%; 
+} 
+#i11 {
+	display: inline-block;
+	width: 46%; 
+} 
+#i12 {
+	display: inline-block;
+	width: 46%; 
+}
+#i13{
+	width: 95%; 
+} 
+
+.tr{
+  background:#3550CC;
+}
+.kr{
+  background:#7A0899;
+}
+.romb{
+  background: #CC7E65;
+}
